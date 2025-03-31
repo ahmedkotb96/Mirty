@@ -1,0 +1,9 @@
+body{
+    background-image: url('romance.jpg'); /* Replace with the actual path to your image */
+    background-size: cover; /* Ensures the image covers the entire background */
+    background-repeat: no-repeat; /* Prevents the image from repeating */
+    background-position: center; /* Centers the image */
+}
+h1{
+    color: rgb(34, 190, 230);
+}
