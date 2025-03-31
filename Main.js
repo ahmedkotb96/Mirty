@@ -25,6 +25,6 @@ noButton.addEventListener('click', () => {
     if (doYouAgree === true) {
         alert("I love you ya Mirty");
     } else {
-        alert("I am sad 😢");
+        alert("I am sad😢");
     }
 });
